@@ -15,7 +15,7 @@ tags: [journal, summary]
 
 ## Learnings
 
-- covered yntax, lists, dictionaries, modules and more.
+- covered syntax, lists, dictionaries, modules and more.
 
 ## Next Week’s Goals
 
