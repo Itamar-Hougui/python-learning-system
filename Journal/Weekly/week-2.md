@@ -1,9 +1,9 @@
 ---
-week: {1}        
+week: {2}        
 tags: [journal, summary]
 ---
 
-# Weekly Summary — {1}
+# Weekly Summary — {2}
 
 ## Highlights
 
